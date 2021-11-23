@@ -1,0 +1,136 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(240, 255, 250);
+}
+.topNav{
+    background-color: rgb(149, 172, 196);
+    height:40px;
+    width:100%;
+    left:0px;
+    right:0px;
+    top:0px;
+    position:fixed;
+    
+}
+
+.navBox{
+    position: relative;
+    top: -1em;
+    color:rgb(237, 254, 254);
+    left: 40%;
+    right:60%;
+}
+
+
+.allThings{
+    left: 2rem;
+    right: 4rem;
+    position:relative;
+    top: 14rem;
+}
+
+
+.box1{
+    position: relative;
+    background-color: rgb(170, 194, 172);
+    height: 18em;
+    width: 18em;
+    float: left;
+    border:black;
+    border-radius: .5em;
+    border-style: solid;
+    
+}
+
+.box1TitleBar{
+   background-color: white;
+   position: absolute;
+   left: 0px;
+   right:0px;
+   border-radius: .25em;
+   height:3em;
+    
+
+}
+
+.box1TitleContainer{
+    top:2em;
+}
+.box1TitleContainer
+
+.box1MainContainer{
+    position: relative;
+    top:6em;
+}
+
+
+.box2{
+    position: absolute;
+    background-color: rgb(197, 198, 225);
+    height: 18em;
+    width: 18em;
+    float: right;
+    top:20%;
+    border-radius: .5em;
+    right: 2em;
+    border-style: solid;
+}
+
+.box2TitleBar{
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    right:0px;
+    border-radius: .25em;
+    height:3em;
+     
+ 
+ }
+.box3{
+    position: absolute;
+    background-color: rgb(201, 178, 178);
+    height: 11em;
+    width: 18em;
+    float: left;
+    top: 24em;
+    border-radius: .5em;
+    border-style: solid;
+
+}
+
+.box3TitleBar{
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    right:0px;
+    border-radius: .25em;
+    height:3em;
+     
+ 
+ }
+
+.box4{
+    position: absolute;
+    background-color: rgb(187, 187, 164);
+    height: 18em;
+    width: 18em;
+    float: right;
+    top:24em;
+    border-radius: .5em;
+    right: 2em;
+    border-style: solid;
+
+}
+
+.box4TitleBar{
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    right:0px;
+    border-radius: .25em;
+    height:3em;
+     
+ 
+ }
